@@ -1,0 +1,62 @@
+Programming languages, paradigms və platforms  haqqda  araşdırılma etmək
+Proqramlaşdırma dilləri:
+ Ada — Ada proqramlaşdırma dilinin yaranma tarixi 1974–1980-ci illərə təsadüf edir.
+ Assembler – bu proqram vasitəsilə effektiv və kompakt proqramlar yaradılır.
+Assemblerlərdən sistem proqramlarının,  drayverlərin ,  kompüterin  aparat resurslarına
+müraciət üçün və s. proqramların yaradılmasında istifadə edilir.
+ Basic – Bu dil üçün kompilyator və interpretatorlar mövcuddur. 60-cı illərdə yaradılmışdır
+və öyrənilməsi sadədir.
+ C – Bell laboratoriyasında yaradılmışdır və assembler dilini əvəz etmək üçün nəzərdə
+tutulmuşdur.  Assemblerdən  fərqli olaraq konkret tip prosessordan asılı deyil.
+ C++ – 1980-ci ildə Byörn Straustrup tərəfindən yaradılmışdır. Proqramın imkanları
+proqramçının işinin məhsuldarlığını artırmış olur.
+ C# — C#(C Sharp) – Microsoft. Net platformu ilə birlikdə təqdim olunan C ailəsinə aid
+yeni obyekt orientasıyalı dillərdən biridir.
+ Fortran – 50-ci illərdə Cim Bekus tərəfindən yaradılmış ilk kompilyasiya dilidir. Bu dildən
+hal-hazırda da bütün dünyada istifadə edilir. 2000-ci ildə Fortranın yeni versiyası
+yaradılmışdır: F2k.
+ JAL — Wouter Van Ooijen tərəfindən 16F84 ,16C84,16F877 , Scenix SX18 ve SX28
+kimi mikrokontrollerləri proqramlaşdırmaq üçün yaradılmış dildir.
+ Java – 90-cı illərdə Sun kompaniyası tərəfindən С++ proqram dili əsasında
+yaradılmışdır.
+ LISP — List Processing (siyahıların emalı) sözlərindən götürülmüşdür. 1958-ci ildə
+yaradılmışdır
+ Lua — 1993-cü ildə yaradılmış açıq qaynaq kodlu dildir.
+ Objective-C — yuxarı səviyyəli, Obyekt yönümlü proqramlaşdırma dilidir.
+ Pascal – 70-ci illərdə Niklaus Birt tərəfindən yaradılıb,  Alqol  dilinə daha çox oxşayır.
+ Perl — 1987-ci ildə Lary Wall tərəfindən yaradılmış dinamik proqramlaşdırma dilidir.
+ PHP — (Hypertext Preprocessor) dinamik veb səhifələr yaratmaq üçün 1995-ci ildə
+yaradılıb.
+ Prolog — Proloq məntiqi proqramlaşdırma dilidir ki Süni intellekt və Hesablamalı dilçilik
+ilə əlaqədardır.
+ Python — 1991-ci ildə Guido van Rossum tərəfindən yaradılmışdır. Dilinin sintaksisi çox
+aydın və anlaşıqlıdır.
+ Ruby — Yukihiro Matsumoto tərəfindən Perl, Smalltalk və Eiffel dillərindən yararlanaraq
+yaradılmışdır.
+ Scheme — Funksional proqramlaşdırma dili olub. 1975–1980-ci illər ərzində MİT süni
+intellekt laboratoriyasında yaradılmışdır.
+ Delphi — Pascal dilinin əsasında yaradılmış dildir.
+ Cobol – 60-cı illərdə yaradılıb, iqtisadi sahədə, biznes məsələlərin həllində istifadə edilir.
+Bu proqramın operatorları adi ingilis cümlələrinə çox bənzəyir.
+ Swift– Apple tərəfindən WWDC 14 də təqdim edilmiş proqramlaşdırma dili.
+Proqramlaşdırma paradiqmaları:
+1. Imperativ paradiqma
+2. Deklerativ paradiqma
+3. Object-oriented paradiqma
+4. Functional paradiqma
+
+Proqramlaşdırma platformaları: desktop platformaları, mobile platforma, embedded platforma,
+web platforma
+Proqramlaşdırma nədir?
+Proqramlaşdırma icra edilə bilən kompüter proqramının layihələndirilməsi və qurulması yolu ilə
+müəyyən bir hesablamanın yerinə yetirilməsi prosesidir
+
+Software nədir və kompüterdə necə emal olunur?
+Kompüterin proqram təminatı (PT) – təlimatlar yığımından ibarət olub,  kompüteri  idarə edir və
+onun köməyi ilə lazım olan məsələni həll edir. Proqramçı proqramlaşdırma dilini istifadə edərək
+təlimatları yazır, proqramın strukturlaşdırılmış verilənlər üzərində necə işləməsini müəyyənləşdirir.
+Proqram daha sonra maşın koduna tərtib edilə bilər
+proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+Aşağı səviyyəli dil və yuxarı səviyyəli dil üzrə qruplaşdıraram. Aşağı səviyyəli dillər:Assembly
+və maşın kodları. Yuxarı səviyyəli dillər: Python, Java, C++, C#, Visual Basic, JavaScript
+və s.
